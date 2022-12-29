@@ -1,4 +1,4 @@
-Hi there! I am a software developer interested in building applications that solve whatever problem that I need to fix.
+Hi there! I am a software developer interested in building applications that solve whatever problem that needs fixing.
 
 Skills:
 
