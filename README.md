@@ -2,8 +2,7 @@ Hi there! I am a software developer interested in building applications that sol
 
 Skills:
 
-Python, C++, Java, Kotlin, Golang, JavaScript, Node.js, HTML/CSS
-VSC, PyCharm, DrJava, vi, Notepad/++, Atom, Sourcetree
+Python, C++, Java, Kotlin, Golang, JavaScript, Node.js, HTML/CSS, VSC, PyCharm, DrJava, vi, Notepad/++, Atom, Sourcetree
 
 Projects:
 
