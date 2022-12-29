@@ -6,7 +6,7 @@ Python, C++, Java, Kotlin, Golang, JavaScript, Node.js, HTML/CSS, VSC, PyCharm, 
 
 Projects:
 
-Here are some of the projects I've worked on:
+Here are some of the projects I've worked on:\n
 Destiny2DPSGraphPY: This project takes input values for certain in game weapons in the game Destiny 2, and plots the damage per second.
 chad-bot: A javascript text bot for use in a personal discord server. 
 OSU-RL-Matchmaking-Bot-py: Unfinished discord bot that would set up matchmaking and elo system for Oregon State University's rocket league division.
