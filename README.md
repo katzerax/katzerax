@@ -1,4 +1,4 @@
-Hi there! I am a back-end software developer interested in building applications that solve whatever problem that needs fixing.
+やっほ～! I am a back-end software developer interested in building applications that solve whatever problem that needs fixing.
 
 Skills:
 
