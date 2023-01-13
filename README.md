@@ -2,7 +2,7 @@
 
 Skills:
 
-Python, C++, Java, Kotlin, Golang, JavaScript, Node.js, HTML/CSS, VSC, PyCharm, DrJava, vim, Notepad/++, Atom, Git, Sourcetree, SSH/FTP, Wireshark, Metasploit
+Python, C++, Java, Kotlin, Golang, JavaScript, Node.js, HTML/CSS, VSC, PyCharm, DrJava, vim, Notepad/++, Atom, Git, Sourcetree, SSH/FTP, Wireshark, Metasploit, Kali, Ubuntu/Server, Win10
 
 Contact:
 
