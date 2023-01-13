@@ -1,4 +1,4 @@
-やっほ～! I am a general software developer interested in building applications that solve whatever problem that needs fixing.
+やっほ～! I am a general software developer interested in employment.
 
 Skills:
 
