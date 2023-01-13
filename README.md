@@ -2,7 +2,7 @@
 
 Skills:
 
-Atom, AWS, C++, DrJava, Git, Golang, HTML/CSS, Java, JavaScript, Kali, Kotlin, Metasploit, Notepad/++, Node.js, PyCharm, Python, SSH/FTP, Sourcetree, Ubuntu/Server, VSC, vim, Wireshark, Win10
+Atom, AWS, C++, DrJava, Git, Golang, HTML/CSS, Java, JavaScript, Kali, Kotlin, Linux Mint, Metasploit, Notepad/++, Node.js, PyCharm, Python, SSH/FTP, Sourcetree, Ubuntu/Server, VSC, vim, Wireshark, Win10
 
 Contact:
 
